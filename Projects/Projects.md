@@ -3,6 +3,9 @@
 
 ## Current Projects
 
+### Photomapping Uganda
+Text from original proposal [here](Current/Photomapping_Uganda.md)
+
 ### Open Cities Africa Bamako, Mali
 
 Details of the project [here](Current/OCA_Bamako.md)
