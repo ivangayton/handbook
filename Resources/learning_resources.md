@@ -5,3 +5,4 @@
 
 ## Markdown
 - [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), which is probably sufficient to learn how to use Markdown enough to work on a handbook.
+- [HackMD](https://hackmd.io/home) is a site that allows you to work on markdown documents in realtime, and has excellent learning material.
