@@ -8,9 +8,9 @@
 
 [Andrew Lamb]()
 
-[Deogratius Kigudde]() is the Country Manager in DRC.
+[Deogratius Kigudde]() is the Country Manager in Uganda.
 
-[Allan]() (need full name) is one of the Unganda team members who has been working closely with the FieldReady team.
+[Allan Mbabani]() (need full name) is one of the Unganda team members who has been working closely with the FieldReady team.
 
 ## Documents
 
