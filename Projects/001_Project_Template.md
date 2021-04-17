@@ -1,6 +1,6 @@
-Template for project documentation in Github
+# Template for project documentation in Github
 
-# SECTION 1: PROJECT ONSET
+## SECTION 1: PROJECT ONSET
 
 | Project details | |
 | -------- | -------- |
@@ -17,13 +17,13 @@ Template for project documentation in Github
 | Projected outputs |What are the projected project outputs? Area mapped, number of edits, number of individuals trained etc.|
 | Projected outcomes| What are the projected project outcomes? Eg. local people benefit from having increased access to health services |
 
-# SECTION 2: DURING PROJECT
+## SECTION 2: DURING PROJECT
 
 | Project details | |
 | -------- | -------- |
 | Updates | Annually (depending on project length)If there are any major updates/challenges/solutions
 
-# SECTION 3: PROJECT CLOSE
+## SECTION 3: PROJECT CLOSE
 
 | Project details | |
 | -------- | -------- |
