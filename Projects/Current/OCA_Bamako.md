@@ -1,23 +1,47 @@
 # Open Cities Africa (OCA) Bamako
 
-## Roles
+## Stakeholders and Roles
 
-[David Luswata]() is the Project Manager, leading all activities of the project, and supporting in country activities remotely from Uganda.
+[Nathalie Sidibe](https://www.hotosm.org/people/nathalie-sidibe/) is the leader of the local community [MapMali](https://wiki.openstreetmap.org/wiki/Mali).
 
-[Ivan Gayton]() supports from Japan remotely.
+[Soulo Boureima](https://www.hotosm.org/people/boureima-soulo/) works with Nathalie implementing the project.
 
-[Koakun Emmanuel Myers]() works as a field implementer. He is based in Liberia but speaks enough French to work with the team.
+[David Luswata](https://www.hotosm.org/people/david-luswata/) was the Project Manager, leading all activities of the project, and supporting in country activities remotely from Uganda. He has since begun a move to a role with the HOT East Africa hub.
 
-[Nathalie Sidibe]() is the leader of the local community MapMali.
+[Shazmane Mandjee](https://ca.linkedin.com/in/shazmane-mandjee) joined the team in May 2021 as a Programs team member. 
 
-[Vivien Deparday]() is the World Bank lead on the client side.
+[Ivan Gayton](https://www.hotosm.org/people/ivan-gayton/) supports from Japan remotely.
+
+[Koakun Emmanuel Myers](https://www.hotosm.org/people/koakun-emmanuel-myers/) works as a field implementer. He is based in Liberia but speaks French at a working level and has spent significant time in the field with the team.
+
+[Aaron Eubank](https://www.hotosm.org/people/aaron-eubank/) supported the team with dataviz and analysis. 
+
+[Vivien Deparday](https://live.worldbank.org/experts/vivien-deparday) is the World Bank lead on the client side.
+
+[Veronique]()
+
+[Thierry]()
 
 [Babadien]() (need full name) is a government employee that the World Bank considers to be a key stakeholder.
 
 ### Documents
 [Data model](https://docs.google.com/document/d/1S9MwRngkW6fS1O641tFad3ZoWjrtJc5sfrCD0Sv0-UY/edit)
 
-#### Pictures
-Field teams share photos during activities, often on WhatsApp. I don't think they are being captured, but they should be!
+The HOT Google Drive directory for the project is [here](https://drive.google.com/drive/u/2/folders/1kaRFIcEOvqxRJb5NecieckxNbXhym_bI) (only accessible to people with HOTOSM email accounts). Within this folder is the raw field data as collected in late 2020 and early 2021, in [this subdirectory](https://drive.google.com/drive/folders/1O57MJ3IwDkQjDtci7I79fTxaTCuo7GRp?usp=sharing). 
 
-Other photos are being uploaded to the ODK server at
+Aaron Eubank's dataviz work is in [a QGIS project hosted on his GitHub account](https://github.com/eubtube/OCA_Bamako_Maps); it can be downloaded to any local computer running QGIS and used.
+
+### Project phases and components
+
+#### Proposal Phase
+#### Inception Phase
+#### MapSwipe Project
+#### Initial Data Collection Phase - City-wide Data collection
+#### Data Cleaning
+#### Detailed Neighbourhood Mapping
+#### Data Cleaning
+#### Map Products Development
+#### Report
+
+#### Pictures
+
