@@ -4,6 +4,8 @@
 
 Let us, as HOT, hire an Android developer and&mdash;together with the [ODK community](https://forum.getodk.org/)&mdash;add a feature set to ODK to improve field data collection!
 
+**[Concept and spec doc](https://docs.google.com/document/d/18ICz7gziV-8uiwy_lMDQ5PM_dD_fBmlcJKG_UJsMNUA/edit?usp=sharing)
+
 ## What exactly?
 Field data collection could be improved in lots of ways, and lots of people _are_ working on it (TODO: add list, including QField, Input, Osmand, Maps.me, etc).
 
@@ -26,7 +28,7 @@ It would not make sense to undertake this without being quite sure that the core
 
 Fortunately, the basic outline of the proposal has already been extensively discussed with the ODK community, and has encountered a generally supportive response.
 
-- An discussion of the spec for launching forms from map features is [here in this shared doc](https://docs.google.com/document/d/18ICz7gziV-8uiwy_lMDQ5PM_dD_fBmlcJKG_UJsMNUA/edit?usp=sharing) that came out of the ODK summit in Seattle in 2019. 
+- An discussion of the spec for launching forms from map features is [here in this shared doc](https://docs.google.com/document/d/18ICz7gziV-8uiwy_lMDQ5PM_dD_fBmlcJKG_UJsMNUA/edit?usp=sharing) that came out of the ODK summit in Seattle in 2019. **N.B.** the following section mostly recapitulates the proposal from this document.
 - [Here's an ODK forum discussion of geo in ODK](https://forum.getodk.org/t/collect-v1-23-offline-vector-basemap-questions/21278/6).
 - [Here's a shared doc outlining potential future directions for geo in ODK](https://docs.google.com/document/d/1OBWEOe_KRBldhyy80KuLPGnPM0WxKy6n81bLxGBgNCY/edit?usp=sharing). A lot of this has already been implemented (yay!) but there's more that's possible, and has a good chance of acceptance from the ODK community given the long history of engagement here. This one also contains multiple links to other relevant resources and discussions.
 
